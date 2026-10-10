@@ -1,0 +1,1358 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "pin.manage.confirm" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirm new PIN"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "确认新 PIN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しいPINを確認"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Potwierdź nowy PIN"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "確認新 PIN"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue PIN bestätigen"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmer le nouveau code PIN"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmar nuevo PIN"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Confirmar novo PIN"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Konfirmasi PIN baru"
+          }
+        }
+      }
+    },
+    "pin.manage.format" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter a six-digit PIN."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请输入六位数字 PIN。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "6桁のPINを入力してください。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpisz sześciocyfrowy PIN."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入六位數字 PIN。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gib eine sechsstellige PIN ein."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisissez un code PIN à six chiffres."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introduce un PIN de seis dígitos."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digite um PIN de seis dígitos."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masukkan PIN enam digit."
+          }
+        }
+      }
+    },
+    "pin.manage.hint" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hint (optional)"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示（可选）"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヒント（任意）"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wskazówka (opcjonalnie)"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示（可選）"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hinweis (optional)"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Indice (facultatif)"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pista (opcional)"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dica (opcional)"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Petunjuk (opsional)"
+          }
+        }
+      }
+    },
+    "pin.manage.hint.note" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your hint is visible on the PIN login screen. Do not include your PIN. Clear this field to remove the hint."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示会显示在 PIN 登录页，请不要填写 PIN 本身。清空此项即可删除提示。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヒントはPINログイン画面に表示されます。PINそのものは記入しないでください。空欄にするとヒントを削除できます。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wskazówka jest widoczna na ekranie logowania PIN-em. Nie wpisuj w niej PIN-u. Wyczyść pole, aby usunąć wskazówkę."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "提示會顯示在 PIN 登入頁，請不要填寫 PIN 本身。清空此項即可刪除提示。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Dein Hinweis ist auf dem PIN-Anmeldebildschirm sichtbar. Er darf deine PIN nicht enthalten. Leere dieses Feld, um den Hinweis zu entfernen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Votre indice est visible sur l’écran de connexion par code PIN. N’y indiquez pas votre code PIN. Videz ce champ pour supprimer l’indice."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "La pista es visible en la pantalla de acceso con PIN. No incluyas tu PIN. Vacía este campo para eliminar la pista."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sua dica fica visível na tela de login com PIN. Não inclua seu PIN. Limpe este campo para remover a dica."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Petunjuk terlihat di layar masuk PIN. Jangan sertakan PIN Anda. Kosongkan kolom ini untuk menghapus petunjuk."
+          }
+        }
+      }
+    },
+    "pin.manage.hint.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change PIN hint"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改 PIN 提示"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PINのヒントを変更"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmień wskazówkę PIN-u"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改 PIN 提示"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN-Hinweis ändern"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifier l’indice du code PIN"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar pista del PIN"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alterar dica do PIN"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubah petunjuk PIN"
+          }
+        }
+      }
+    },
+    "pin.manage.mismatch" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The new PIN entries do not match."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "两次输入的新 PIN 不一致。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "入力した新しいPINが一致しません。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wprowadzone nowe kody PIN nie są zgodne."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "兩次輸入的新 PIN 不一致。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die neuen PIN-Eingaben stimmen nicht überein."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Les nouveaux codes PIN saisis ne correspondent pas."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Los nuevos PIN introducidos no coinciden."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Os novos PINs digitados não coincidem."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN baru yang dimasukkan tidak cocok."
+          }
+        }
+      }
+    },
+    "pin.manage.new" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "New six-digit PIN"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新的六位 PIN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新しい6桁のPIN"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nowy sześciocyfrowy PIN"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "新的六位 PIN"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Neue sechsstellige PIN"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nouveau code PIN à six chiffres"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nuevo PIN de seis dígitos"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Novo PIN de seis dígitos"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN enam digit baru"
+          }
+        }
+      }
+    },
+    "pin.manage.old" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Current PIN"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前 PIN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在のPIN"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Obecny PIN"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "當前 PIN"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aktuelle PIN"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Code PIN actuel"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN actual"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN atual"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN saat ini"
+          }
+        }
+      }
+    },
+    "pin.manage.reauthenticate" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enter your current PIN to save changes. Face ID cannot replace this verification."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请输入当前 PIN 以保存修改。此操作不能使用 Face ID 代替验证。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更を保存するには現在のPINを入力してください。Face IDではこの確認を代替できません。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wpisz obecny PIN, aby zapisać zmiany. Face ID nie zastępuje tej weryfikacji."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請輸入當前 PIN 以保存修改。此操作不能使用 Face ID 代替驗證。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Gib deine aktuelle PIN ein, um Änderungen zu speichern. Face ID kann diese Prüfung nicht ersetzen."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Saisissez votre code PIN actuel pour enregistrer les modifications. Face ID ne peut pas remplacer cette vérification."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Introduce tu PIN actual para guardar los cambios. Face ID no puede sustituir esta verificación."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Digite seu PIN atual para salvar as alterações. O Face ID não pode substituir esta verificação."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Masukkan PIN saat ini untuk menyimpan perubahan. Face ID tidak dapat menggantikan verifikasi ini."
+          }
+        }
+      }
+    },
+    "pin.manage.save" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Save changes"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存修改"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "変更を保存"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zapisz zmiany"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "保存修改"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Änderungen speichern"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Enregistrer les modifications"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Guardar cambios"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Salvar alterações"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Simpan perubahan"
+          }
+        }
+      }
+    },
+    "pin.manage.section" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN security"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN 安全"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PINのセキュリティ"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zabezpieczenie PIN-u"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN 安全"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN-Sicherheit"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sécurité du code PIN"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Seguridad del PIN"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Segurança do PIN"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Keamanan PIN"
+          }
+        }
+      }
+    },
+    "pin.manage.storage" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Secure storage is unavailable. The operation was not completed. Please try again."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全存储暂不可用，操作未完成，请重试。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全なストレージを利用できないため、操作を完了できませんでした。再試行してください。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bezpieczne przechowywanie jest niedostępne. Operacja nie została ukończona. Spróbuj ponownie."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全存儲暫不可用，操作未完成，請重試。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sicherer Speicher ist nicht verfügbar. Der Vorgang wurde nicht abgeschlossen. Versuche es erneut."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le stockage sécurisé est indisponible. L’opération n’a pas été effectuée. Réessayez."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El almacenamiento seguro no está disponible. La operación no se ha completado. Vuelve a intentarlo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O armazenamento seguro está indisponível. A operação não foi concluída. Tente novamente."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Penyimpanan aman tidak tersedia. Operasi belum selesai. Coba lagi."
+          }
+        }
+      }
+    },
+    "pin.manage.storage.title" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Unable to save securely"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "无法安全保存"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "安全に保存できません"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie można bezpiecznie zapisać"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "無法安全保存"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sicheres Speichern nicht möglich"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Impossible d’enregistrer en sécurité"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "No se puede guardar de forma segura"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Não foi possível salvar com segurança"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Tidak dapat menyimpan dengan aman"
+          }
+        }
+      }
+    },
+    "pin.manage.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Change PIN"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改 PIN"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PINを変更"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Zmień PIN"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "修改 PIN"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN ändern"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Modifier le code PIN"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cambiar PIN"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Alterar PIN"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ubah PIN"
+          }
+        }
+      }
+    },
+    "pin.manage.wrong" : {
+      "extractionState" : "stale",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "The current PIN is incorrect."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "当前 PIN 不正确。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在のPINが正しくありません。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bieżący PIN jest nieprawidłowy."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "當前 PIN 不正確。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Die aktuelle PIN ist falsch."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Le code PIN actuel est incorrect."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "El PIN actual es incorrecto."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "O PIN atual está incorreto."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN saat ini salah."
+          }
+        }
+      }
+    },
+    "pin.recovery.biometric" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "If biometric unlock was enabled, you may still be able to enter the app from the PIN login screen. Changing the PIN or hint still requires the current PIN."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果已启用生物识别，可尝试从 PIN 登录页进入 App。修改 PIN 或提示仍需要当前 PIN。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "生体認証を有効にしていた場合、PINログイン画面からアプリに入れる可能性があります。PINやヒントの変更には、現在のPINが必要です。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jeśli odblokowanie biometryczne było włączone, być może nadal możesz wejść do aplikacji z ekranu logowania PIN-em. Zmiana PIN-u lub wskazówki wymaga obecnego PIN-u."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如果已啟用生物識別，可嘗試從 PIN 登入頁進入 App。修改 PIN 或提示仍需要當前 PIN。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Wenn biometrisches Entsperren aktiviert war, kannst du die App möglicherweise noch über den PIN-Anmeldebildschirm öffnen. Zum Ändern der PIN oder des Hinweises ist weiterhin die aktuelle PIN erforderlich."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si le déverrouillage biométrique était activé, vous pouvez peut-être encore accéder à l’app depuis l’écran de connexion par code PIN. Modifier le code PIN ou l’indice exige toujours le code PIN actuel."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Si el desbloqueo biométrico estaba activado, es posible que aún puedas acceder a la app desde la pantalla de acceso con PIN. Cambiar el PIN o la pista sigue requiriendo el PIN actual."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Se o desbloqueio biométrico estava ativado, talvez você ainda consiga entrar no app pela tela de login com PIN. Alterar o PIN ou a dica ainda exige o PIN atual."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Jika pembukaan kunci biometrik diaktifkan, Anda mungkin masih dapat masuk ke app dari layar masuk PIN. Mengubah PIN atau petunjuk tetap memerlukan PIN saat ini."
+          }
+        }
+      }
+    },
+    "pin.recovery.help" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Help"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "帮助"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "ヘルプ"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pomoc"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "幫助"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Hilfe"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aide"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ayuda"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ajuda"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Bantuan"
+          }
+        }
+      }
+    },
+    "pin.recovery.persistence" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revoking Screen Time access does not reset this PIN. The PIN is stored in this device’s Keychain and may remain after reinstalling. There is no forgotten-PIN reset in the app. Keep your PIN somewhere safe."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撤销屏幕使用时间权限不会重置 PIN。PIN 保存在本机钥匙串中，重新安装后也可能保留。App 不提供忘记 PIN 后的重置入口，请妥善保管 PIN。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "スクリーンタイムへのアクセスを取り消しても、このPINはリセットされません。PINはこのデバイスのキーチェーンに保存され、再インストール後も残る場合があります。アプリには忘れたPINをリセットする機能はありません。PINを安全な場所に保管してください。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Cofnięcie dostępu do Czasu przed ekranem nie resetuje tego PIN-u. PIN jest zapisany w pęku kluczy urządzenia i może pozostać po ponownej instalacji. Aplikacja nie umożliwia resetowania zapomnianego PIN-u. Przechowuj go w bezpiecznym miejscu."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "撤銷螢幕使用時間權限不會重置 PIN。PIN 保存在本機鑰匙圈中，重新安裝後也可能保留。App 不提供忘記 PIN 後的重置入口，請妥善保管 PIN。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Ein Widerruf des Bildschirmzeit-Zugriffs setzt diese PIN nicht zurück. Die PIN wird im Schlüsselbund dieses Geräts gespeichert und kann nach einer Neuinstallation erhalten bleiben. Die App bietet keine Zurücksetzung für vergessene PINs. Bewahre deine PIN sicher auf."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Révoquer l’accès à Temps d’écran ne réinitialise pas ce code PIN. Il est stocké dans le trousseau de cet appareil et peut subsister après une réinstallation. L’app ne propose pas de réinitialisation en cas d’oubli du code PIN. Conservez-le en lieu sûr."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revocar el acceso a Tiempo de uso no restablece este PIN. El PIN se guarda en el llavero del dispositivo y puede conservarse tras reinstalar la app. La app no permite restablecer un PIN olvidado. Guárdalo en un lugar seguro."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Revogar o acesso ao Tempo de Uso não redefine este PIN. O PIN é armazenado nas Chaves deste dispositivo e pode permanecer após uma reinstalação. O app não oferece redefinição de PIN esquecido. Guarde seu PIN em um lugar seguro."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Mencabut akses Durasi Layar tidak mereset PIN ini. PIN disimpan di Keychain perangkat ini dan mungkin tetap ada setelah pemasangan ulang. App tidak menyediakan reset PIN yang terlupa. Simpan PIN Anda di tempat aman."
+          }
+        }
+      }
+    },
+    "pin.recovery.remember" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Try the hint on the PIN login screen. After repeated incorrect attempts, wait until the cooldown ends before trying again."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "请参考 PIN 登录页的提示。连续输错后，需要等待冷却结束才能再次尝试。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PINログイン画面のヒントを確認してください。入力を繰り返し間違えた場合は、待機時間が終了してから再試行してください。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Sprawdź wskazówkę na ekranie logowania PIN-em. Po wielokrotnych błędnych próbach zaczekaj na koniec okresu blokady przed kolejną próbą."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "請參考 PIN 登入頁的提示。連續輸錯後，需要等待冷卻結束才能再次嘗試。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nutze den Hinweis auf dem PIN-Anmeldebildschirm. Warte nach wiederholten Fehlversuchen bis zum Ende der Sperrzeit, bevor du es erneut versuchst."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consultez l’indice sur l’écran de connexion par code PIN. Après plusieurs tentatives incorrectes, attendez la fin du délai avant de réessayer."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consulta la pista en la pantalla de acceso con PIN. Tras varios intentos incorrectos, espera a que termine el tiempo de espera antes de reintentarlo."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Consulte a dica na tela de login com PIN. Após várias tentativas incorretas, espere o fim do período de espera antes de tentar novamente."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Coba petunjuk di layar masuk PIN. Setelah beberapa percobaan yang salah, tunggu hingga masa tunggu berakhir sebelum mencoba lagi."
+          }
+        }
+      }
+    },
+    "pin.recovery.system" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "To stop restrictions without entering the app, use iPhone Settings → Screen Time and revoke this app’s Screen Time access. The wording can vary by iOS version; device or family restrictions may require the owner’s Screen Time passcode."
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如需在无法进入 App 时停止限制，可前往 iPhone「设置」→「屏幕使用时间」，撤销本 App 的屏幕使用时间访问权限。不同 iOS 版本的名称可能不同；设备或家庭限制可能要求所有者输入屏幕使用时间密码。"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "アプリに入れない状態で制限を解除するには、iPhoneの「設定」→「スクリーンタイム」で、このアプリのアクセスを取り消してください。項目名はiOSのバージョンにより異なります。デバイスやファミリーの制限によっては、所有者のスクリーンタイム・パスコードが必要です。"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Aby usunąć ograniczenia bez otwierania aplikacji, przejdź do Ustawienia iPhone’a → Czas przed ekranem i cofnij dostęp tej aplikacji. Nazwy opcji mogą różnić się między wersjami iOS; ograniczenia urządzenia lub rodziny mogą wymagać kodu Czasu przed ekranem właściciela."
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "如需在無法進入 App 時停止限制，可前往 iPhone「設定」→「螢幕使用時間」，撤銷本 App 的螢幕使用時間存取權限。不同 iOS 版本的名稱可能不同；裝置或家庭限制可能要求所有者輸入螢幕使用時間密碼。"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Um Einschränkungen aufzuheben, ohne die App zu öffnen, gehe zu iPhone-Einstellungen → Bildschirmzeit und widerrufe den Bildschirmzeit-Zugriff dieser App. Die Bezeichnungen können je nach iOS-Version abweichen; Geräte- oder Familienbeschränkungen können den Bildschirmzeit-Code des Eigentümers erfordern."
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Pour arrêter les restrictions sans ouvrir l’app, allez dans Réglages de l’iPhone → Temps d’écran et révoquez l’accès de cette app à Temps d’écran. Les libellés peuvent varier selon la version d’iOS ; les restrictions de l’appareil ou de la famille peuvent exiger le code Temps d’écran du propriétaire."
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para detener las restricciones sin entrar en la app, ve a Ajustes del iPhone → Tiempo de uso y revoca el acceso de esta app a Tiempo de uso. El texto puede variar según la versión de iOS; las restricciones del dispositivo o de la familia pueden requerir el código de Tiempo de uso del propietario."
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Para encerrar as restrições sem entrar no app, vá aos Ajustes do iPhone → Tempo de Uso e revogue o acesso deste app ao Tempo de Uso. Os nomes podem variar conforme a versão do iOS; restrições do dispositivo ou da família podem exigir o código do Tempo de Uso do proprietário."
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Untuk menghentikan pembatasan tanpa masuk ke app, buka Pengaturan iPhone → Durasi Layar dan cabut akses Durasi Layar app ini. Istilah dapat berbeda menurut versi iOS; pembatasan perangkat atau keluarga mungkin memerlukan kode sandi Durasi Layar pemilik."
+          }
+        }
+      }
+    },
+    "pin.recovery.title" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Forgot PIN?"
+          }
+        },
+        "zh-Hans" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忘记 PIN？"
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PINを忘れた場合"
+          }
+        },
+        "pl" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Nie pamiętasz PIN-u?"
+          }
+        },
+        "zh-Hant" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "忘記 PIN？"
+          }
+        },
+        "de" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "PIN vergessen?"
+          }
+        },
+        "fr" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Code PIN oublié ?"
+          }
+        },
+        "es" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "¿Has olvidado el PIN?"
+          }
+        },
+        "pt-BR" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Esqueceu o PIN?"
+          }
+        },
+        "id" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Lupa PIN?"
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

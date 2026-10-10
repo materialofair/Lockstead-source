@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<!-- 最小权限:family-controls 必须保留——Apple 要求 Screen Time API 扩展
+     (ShieldAction 等)持有该权限,缺失时 .close 关闭盾牌在真机上失效。
+     不读 App Group、不写 ManagedSettings,无需 app-groups。 -->
+<dict>
+    <key>com.apple.developer.family-controls</key>
+    <true/>
+</dict>
+</plist>

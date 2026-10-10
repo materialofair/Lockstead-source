@@ -1,0 +1,214 @@
+{
+  "identifier" : "3F5E1B2A-6C4D-4E8A-9B0D-1A2B3C4D5E6F",
+  "nonRenewingSubscriptions" : [],
+  "products" : [
+    {
+      "displayPrice" : "7.99",
+      "familyShareable" : false,
+      "internalID" : "5D2A1E3C-7B4F-4A9C-8D1E-2F3A4B5C6D7E",
+      "localizations" : [
+        {
+          "description" : "高级规则、访客保护与个性化",
+          "displayName" : "Lockstead 终身 VIP",
+          "locale" : "zh_CN"
+        },
+        {
+          "description" : "Advanced rules, Guest Mode & personalization",
+          "displayName" : "Lockstead Lifetime VIP",
+          "locale" : "en_US"
+        },
+        {
+          "locale" : "zh_TW",
+          "displayName" : "Lockstead VIP · 終身",
+          "description" : "高級規則、訪客模式與個人化"
+        },
+        {
+          "locale" : "ja_JP",
+          "displayName" : "Lockstead VIP · 買い切り",
+          "description" : "高度なルール、ゲストモード、カスタマイズ"
+        },
+        {
+          "locale" : "de_DE",
+          "displayName" : "Lockstead VIP · Lebenslang",
+          "description" : "Erweiterte Regeln, Gastmodus und Designs"
+        },
+        {
+          "locale" : "fr_FR",
+          "displayName" : "Lockstead VIP · À vie",
+          "description" : "Règles avancées, mode invité et thèmes"
+        },
+        {
+          "locale" : "es_ES",
+          "displayName" : "Lockstead VIP · De por vida",
+          "description" : "Reglas avanzadas, modo invitado y temas"
+        },
+        {
+          "locale" : "pt_BR",
+          "displayName" : "Lockstead VIP · Vitalício",
+          "description" : "Regras avançadas, modo convidado e temas"
+        },
+        {
+          "locale" : "pl_PL",
+          "displayName" : "Lockstead VIP · Dożywotnio",
+          "description" : "Zaawansowane reguły, tryb gościa i motywy"
+        },
+        {
+          "locale" : "id_ID",
+          "displayName" : "Lockstead VIP · Seumur hidup",
+          "description" : "Aturan lanjutan, mode tamu, dan tema"
+        }
+      ],
+      "productID" : "lockstead.vip.lifetime",
+      "referenceName" : "Lockstead Lifetime VIP",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {},
+  "subscriptionGroups" : [
+    {
+      "id" : "6E3B2C4D-8A5F-4B0D-9E2F-3A4B5C6D7E8F",
+      "localizations" : [],
+      "name" : "VIP",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "0.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "7F4C3D5E-9B6A-4C1E-8F3A-4B5C6D7E8F9A",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "高级规则、访客保护与个性化",
+              "displayName" : "Lockstead VIP 月度会员",
+              "locale" : "zh_CN"
+            },
+            {
+              "description" : "Advanced rules, Guest Mode & personalization",
+              "displayName" : "Lockstead VIP Monthly",
+              "locale" : "en_US"
+            },
+            {
+              "locale" : "zh_TW",
+              "displayName" : "Lockstead VIP · 月度",
+              "description" : "高級規則、訪客模式與個人化"
+            },
+            {
+              "locale" : "ja_JP",
+              "displayName" : "Lockstead VIP · 月額",
+              "description" : "高度なルール、ゲストモード、カスタマイズ"
+            },
+            {
+              "locale" : "de_DE",
+              "displayName" : "Lockstead VIP · Monatlich",
+              "description" : "Erweiterte Regeln, Gastmodus und Designs"
+            },
+            {
+              "locale" : "fr_FR",
+              "displayName" : "Lockstead VIP · Mensuel",
+              "description" : "Règles avancées, mode invité et thèmes"
+            },
+            {
+              "locale" : "es_ES",
+              "displayName" : "Lockstead VIP · Mensual",
+              "description" : "Reglas avanzadas, modo invitado y temas"
+            },
+            {
+              "locale" : "pt_BR",
+              "displayName" : "Lockstead VIP · Mensal",
+              "description" : "Regras avançadas, modo convidado e temas"
+            },
+            {
+              "locale" : "pl_PL",
+              "displayName" : "Lockstead VIP · Miesięcznie",
+              "description" : "Zaawansowane reguły, tryb gościa i motywy"
+            },
+            {
+              "locale" : "id_ID",
+              "displayName" : "Lockstead VIP · Bulanan",
+              "description" : "Aturan lanjutan, mode tamu, dan tema"
+            }
+          ],
+          "productID" : "lockstead.vip.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Lockstead VIP Monthly",
+          "subscriptionGroupID" : "6E3B2C4D-8A5F-4B0D-9E2F-3A4B5C6D7E8F",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        },
+        {
+          "adHocOffers" : [],
+          "codeOffers" : [],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "8A5D4E6F-0C7B-4D2F-9A4B-5C6D7E8F9A0B",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "高级规则、访客保护与个性化",
+              "displayName" : "Lockstead VIP 年度会员",
+              "locale" : "zh_CN"
+            },
+            {
+              "description" : "Advanced rules, Guest Mode & personalization",
+              "displayName" : "Lockstead VIP Yearly",
+              "locale" : "en_US"
+            },
+            {
+              "locale" : "zh_TW",
+              "displayName" : "Lockstead VIP · 年度",
+              "description" : "高級規則、訪客模式與個人化"
+            },
+            {
+              "locale" : "ja_JP",
+              "displayName" : "Lockstead VIP · 年額",
+              "description" : "高度なルール、ゲストモード、カスタマイズ"
+            },
+            {
+              "locale" : "de_DE",
+              "displayName" : "Lockstead VIP · Jährlich",
+              "description" : "Erweiterte Regeln, Gastmodus und Designs"
+            },
+            {
+              "locale" : "fr_FR",
+              "displayName" : "Lockstead VIP · Annuel",
+              "description" : "Règles avancées, mode invité et thèmes"
+            },
+            {
+              "locale" : "es_ES",
+              "displayName" : "Lockstead VIP · Anual",
+              "description" : "Reglas avanzadas, modo invitado y temas"
+            },
+            {
+              "locale" : "pt_BR",
+              "displayName" : "Lockstead VIP · Anual",
+              "description" : "Regras avançadas, modo convidado e temas"
+            },
+            {
+              "locale" : "pl_PL",
+              "displayName" : "Lockstead VIP · Rocznie",
+              "description" : "Zaawansowane reguły, tryb gościa i motywy"
+            },
+            {
+              "locale" : "id_ID",
+              "displayName" : "Lockstead VIP · Tahunan",
+              "description" : "Aturan lanjutan, mode tamu, dan tema"
+            }
+          ],
+          "productID" : "lockstead.vip.yearly",
+          "recurringSubscriptionPeriod" : "P1Y",
+          "referenceName" : "Lockstead VIP Yearly",
+          "subscriptionGroupID" : "6E3B2C4D-8A5F-4B0D-9E2F-3A4B5C6D7E8F",
+          "type" : "RecurringSubscription",
+          "winbackOffers" : []
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}

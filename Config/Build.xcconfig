@@ -1,0 +1,2 @@
+#include? "Dev.xcconfig"
+#include "Version.xcconfig"

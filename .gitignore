@@ -1,0 +1,15 @@
+*.xcodeproj
+xcuserdata/
+DerivedData/
+build/
+*.xcresult
+*.log
+.DS_Store
+Config/Dev.xcconfig
+*.p12
+*.pfx
+*.mobileprovision
+*.pem
+*.key
+.env
+.env.*

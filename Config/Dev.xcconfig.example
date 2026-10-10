@@ -1,0 +1,2 @@
+// 复制为 Dev.xcconfig 并填入你的 Apple Team ID
+DEVELOPMENT_TEAM = YOUR_TEAM_ID

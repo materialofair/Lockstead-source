@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- 最小权限:family-controls 必须保留——盾牌配置扩展同属 Screen Time API 扩展,
+         缺失时盾牌 UI 渲染在真机上不可用;App Group 只读,用于渲染品牌化盾牌,不写 ManagedSettings。 -->
+    <key>com.apple.developer.family-controls</key>
+    <true/>
+    <key>com.apple.security.application-groups</key>
+    <array>
+        <string>group.zeronet.lockstead</string>
+    </array>
+</dict>
+</plist>
