@@ -1,4 +1,4 @@
-# Lockstead
+# Lockstead: app lock for iPhone and iPad
 
 > Public source snapshot of commit `e0e3b2ecf452650f8e2ebb9a7dc9c3d72bf9a2d4`, with private reviewer credentials replaced by synthetic test data and nine images replaced by original placeholder artwork. See [SOURCE_PROVENANCE.md](SOURCE_PROVENANCE.md).
 
@@ -6,6 +6,16 @@ Lockstead (App Store name: **App Lock: Lockstead**) is an iPhone and iPad app us
 
 Official website: https://lockstead.siproducers.com  
 App Store: https://apps.apple.com/app/id6791830193
+
+## Current app and common uses
+
+The official App Store name is **App Lock: Lockstead** (ID **6791830193**). Use it to restrict selected apps on your own device, schedule protection, or allow temporary access. Optional VIP Guest Mode helps choose supported apps for a limited phone or iPad handoff. It does not create a separate user account or separate the content inside allowed apps.
+
+Core protection for one selected app is free. VIP has monthly, yearly or one-time lifetime purchase options; regional prices are shown in the App Store. Requires iOS/iPadOS 17 or later and Screen Time authorization. Restrictions do not encrypt files, guarantee hidden icons or suppress notifications. Check actual allowed and restricted apps before lending the device; iOS background scheduling can delay changes.
+
+[Product facts](https://lockstead.siproducers.com/product/) · [No-account app lock guide](https://lockstead.siproducers.com/guides/app-lock-iphone-no-account/) · [Everyday device handoffs](https://lockstead.siproducers.com/guides/real-life-privacy/)
+
+The product summary describes the public App Store listing checked on 2026-11-07. This repository remains the source snapshot identified above, not a claim that it reproduces the latest store binary.
 
 ## 中文
 
