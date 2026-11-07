@@ -1,6 +1,6 @@
 # Lockstead: app lock for iPhone and iPad
 
-> Public source snapshot of commit `e0e3b2ecf452650f8e2ebb9a7dc9c3d72bf9a2d4`, with private reviewer credentials replaced by synthetic test data and nine images replaced by original placeholder artwork. See [SOURCE_PROVENANCE.md](SOURCE_PROVENANCE.md).
+> Public source snapshot corresponding to the Lockstead 1.2.4 (21) release source, with private reviewer credentials replaced by synthetic test data and nine images replaced by original placeholder artwork. See [SOURCE_PROVENANCE.md](SOURCE_PROVENANCE.md).
 
 Lockstead (App Store name: **App Lock: Lockstead**) is an iPhone and iPad app using Apple's Screen Time frameworks to apply app restrictions. It supports a parent PIN, optional biometric unlocking, temporary access, weekday schedules, saved scenes, guest mode, themes and alternate icons. Some features require VIP through StoreKit. iOS may delay background schedule changes; physical-device verification is necessary.
 
@@ -15,7 +15,7 @@ Core protection for one selected app is free. VIP has monthly, yearly or one-tim
 
 [Product facts](https://lockstead.siproducers.com/product/) · [No-account app lock guide](https://lockstead.siproducers.com/guides/app-lock-iphone-no-account/) · [Everyday device handoffs](https://lockstead.siproducers.com/guides/real-life-privacy/)
 
-The product summary describes the public App Store listing checked on 2026-11-07. This repository remains the source snapshot identified above, not a claim that it reproduces the latest store binary.
+The product summary describes the public App Store listing checked on 2026-11-07. This repository tracks the 1.2.4 (21) release source with the deliberate public-only differences documented below; it does not claim byte-for-byte reproduction of the store binary.
 
 ## 中文
 

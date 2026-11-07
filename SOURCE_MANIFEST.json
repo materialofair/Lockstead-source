@@ -1,837 +1,717 @@
 {
-  "original_commit": "e0e3b2ecf452650f8e2ebb9a7dc9c3d72bf9a2d4",
   "files": [
     {
       "path": ".gitignore",
-      "source_blob": "063a9768dc170eddf01c15228ebdfbcd0185a091",
-      "source_sha256": "c77b3638b079039beebd717d0f5a0dd294bb73e423deaf00ce992e6338d6f6ab",
+      "source_sha256": "295df0f4f10e3a68ebaade45e16bd2372f76ab18340ca5430ba48269bac4b870",
       "public_sha256": "6abed7e5996dde418e60f070c467dacc49575f443454c1766c7168170b32f9fd",
       "change": "publication-ignore-rules"
     },
     {
       "path": "App/Assets.xcassets/AppIcon-Calculator.appiconset/AppIcon-Calculator-1024.png",
-      "source_blob": "7844ed7b197230e8cf0e077b879a52ab9e3e3384",
       "source_sha256": "eda51b4c3edf45773ecb5cd5df21f9964c79fa86be905b24f8e6edad1945260f",
       "public_sha256": "df4e691b9c46914a59699f6f735342e297b665e44db5bd4b0a8d76c62815b2da",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Assets.xcassets/AppIcon-Calculator.appiconset/Contents.json",
-      "source_blob": "e021855535ff492d88f394a3a8eea41b185cef18",
       "source_sha256": "e79f0d76b9d59feeb75c4b08947c23e93dc2275499f95486cdd615a15a1da25b",
       "public_sha256": "e79f0d76b9d59feeb75c4b08947c23e93dc2275499f95486cdd615a15a1da25b",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/AppIcon-Paper.appiconset/AppIcon-Paper-1024.png",
-      "source_blob": "330005cf574781bf62f1e4f1bbecbdb49fa1088a",
       "source_sha256": "98c61c6d241e55f426e2e7278214944fa879c0d2b4c4d2694822b8d08e72fd53",
       "public_sha256": "7bb11b546beb63d865ec4ad7f4dd38d84f0d91fe931866cd476bbe43c6e233c2",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Assets.xcassets/AppIcon-Paper.appiconset/Contents.json",
-      "source_blob": "af4ca11aa98e0caf203655e283e584865cb05bac",
       "source_sha256": "30623cce5905c8ffc8ef7f23cf28726878489353c026d28048d3d677d975245b",
       "public_sha256": "30623cce5905c8ffc8ef7f23cf28726878489353c026d28048d3d677d975245b",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/AppIcon-Pebble.appiconset/AppIcon-Pebble-1024.png",
-      "source_blob": "408991185cd20fe268f6ba7c35705efe4295865f",
       "source_sha256": "d48f0427d8ec1a84976cc6d1a6f0c50198fa5c194d60ba7d4fa667bc461162cc",
       "public_sha256": "f4a73f22489d6bd57ad9a514ade4c80367cbc7456eb6113a6bff73eaf4696502",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Assets.xcassets/AppIcon-Pebble.appiconset/Contents.json",
-      "source_blob": "0646a0283e90de98b733fc67b9aff9422dcb0137",
       "source_sha256": "f1c6ab51672ace094b7c72f74216c31f5e27945c56aa16591cc62566a00cabbc",
       "public_sha256": "f1c6ab51672ace094b7c72f74216c31f5e27945c56aa16591cc62566a00cabbc",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/AppIcon.appiconset/AppIcon-1024.png",
-      "source_blob": "0d56bd75c3fd7cf8ea4a9dfcf89e3d38506f5a68",
       "source_sha256": "f531d2ea04f30ea8d5c76dec8bd9ce9f391f2696b98da629cf7f4fc1ad534a05",
       "public_sha256": "3bd8bec2d36f6e86506292282eb21ff7a41ba4a112d9b376e7b149d46a81743f",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Assets.xcassets/AppIcon.appiconset/Contents.json",
-      "source_blob": "f22e10cde3659e827af3a74cdef013e7ca368a3e",
       "source_sha256": "9cf2928dad89427abd581b6852db081352417f400afb65e60c479228cdc4f4da",
       "public_sha256": "9cf2928dad89427abd581b6852db081352417f400afb65e60c479228cdc4f4da",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/Contents.json",
-      "source_blob": "73c00596a7fca3f3d4bdd64053b69d86745f9e10",
       "source_sha256": "0fd49ba3c3585c709678e0046a821c3c60685ec7063720d30d3a3448be3a208b",
       "public_sha256": "0fd49ba3c3585c709678e0046a821c3c60685ec7063720d30d3a3448be3a208b",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/IconPreview-Calculator.imageset/Contents.json",
-      "source_blob": "8bb4233797c9b89f5594ffff7071555c1e00011f",
       "source_sha256": "4a279a9b8dcf7b732f43dc033c50b680931fbbbdb432894918e8e6e2c8bbe6d0",
       "public_sha256": "4a279a9b8dcf7b732f43dc033c50b680931fbbbdb432894918e8e6e2c8bbe6d0",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/IconPreview-Calculator.imageset/IconPreview-Calculator.png",
-      "source_blob": "86d3752001bb4d0b4920c8fea4e07fb4cfd5ac62",
       "source_sha256": "8b8d033e6769bb28d0dd3ff30ce1b6b528a2346eb019596c9c89a67c250b1523",
       "public_sha256": "d31b1ea1cb8a353f653b2e7db2d4ba47375921b88887578b42582537be7b4410",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Assets.xcassets/IconPreview-Paper.imageset/Contents.json",
-      "source_blob": "8e961c91c773c47dcebe00e9bb6b5616476f5b6b",
       "source_sha256": "200ceee975a5d6a589f9263bbfb647270bcc25d3343d1969a8336bb944996acb",
       "public_sha256": "200ceee975a5d6a589f9263bbfb647270bcc25d3343d1969a8336bb944996acb",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/IconPreview-Paper.imageset/IconPreview-Paper.png",
-      "source_blob": "f1e55dd1664d6df624011367f742131f121fc80b",
       "source_sha256": "aeeeacb011501f619d9bfc3ab8094e3ed0823022e1429daf1647aaa4812f9dd0",
       "public_sha256": "ae63c957b079350a9815f92b9c3350fed5313ff9a4f8e4f6c3cb97caf82c8cda",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Assets.xcassets/IconPreview-Pebble.imageset/Contents.json",
-      "source_blob": "7dc71c1fefa3c0d282ebf17add6ad208e8bcb4da",
       "source_sha256": "ba6d5133cb2eefcfe2ed38514db9e80a4d3ddca49cc6bbbfa842ccf9417adcbc",
       "public_sha256": "ba6d5133cb2eefcfe2ed38514db9e80a4d3ddca49cc6bbbfa842ccf9417adcbc",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/IconPreview-Pebble.imageset/IconPreview-Pebble.png",
-      "source_blob": "e04c2d166b4b8c3cc54ca13a680ecb544abce09d",
       "source_sha256": "2c281a9da83898356431ba1593247bdcf9a94222907733d0cdccb0db27224189",
       "public_sha256": "88e9bde31580412bb1a1258ab7520663a36ec3c4b637f3a509a216b98e3c015c",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Assets.xcassets/IconPreview-Primary.imageset/Contents.json",
-      "source_blob": "601c97f07e15a6e5a51afd2038f4c1adecf5bb53",
       "source_sha256": "3ddda49a13d873ae1f1712a4f3859308da374357ea79f97db9cda854de350de4",
       "public_sha256": "3ddda49a13d873ae1f1712a4f3859308da374357ea79f97db9cda854de350de4",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/IconPreview-Primary.imageset/IconPreview-Primary.png",
-      "source_blob": "5262abb2a906532482620c50c90375782079ecb3",
       "source_sha256": "9903dc37805fa9ab8d1996804b1d6cc9b5bd2270f4352f9c4b4ff736e850ae70",
       "public_sha256": "214fd827bef11d2bbff0c166e31a30eb4a7b52b0bffcd40086f8d66ff4be53c8",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Assets.xcassets/LaunchBackground.colorset/Contents.json",
-      "source_blob": "346590f87c20fd548241738c89cf54fa0dc58fd8",
       "source_sha256": "ed62fdbfc00c728dc835575295c97728a718be40ca82e0b64170ac097f744a00",
       "public_sha256": "ed62fdbfc00c728dc835575295c97728a718be40ca82e0b64170ac097f744a00",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/LaunchMark.imageset/Contents.json",
-      "source_blob": "403a31e9ef22f06ce4c86348a0f90635902c9d00",
       "source_sha256": "72e7e457083710a281a125ba32514252688e8a0ed5f9949166c00d1f688f5bd8",
       "public_sha256": "72e7e457083710a281a125ba32514252688e8a0ed5f9949166c00d1f688f5bd8",
       "change": "unchanged"
     },
     {
       "path": "App/Assets.xcassets/LaunchMark.imageset/LaunchMark.png",
-      "source_blob": "bd68fe89828ceaef449affd50cf5daa3260bba67",
       "source_sha256": "dee9a5e754332b65441dd698b672163015de970c625e61fd195853b6b27ec67b",
       "public_sha256": "214fd827bef11d2bbff0c166e31a30eb4a7b52b0bffcd40086f8d66ff4be53c8",
       "change": "original-procedural-artwork"
     },
     {
       "path": "App/Design/AppIconPickerSection.swift",
-      "source_blob": "736f452751382ce7791f315e04a3f8d70ac2e1be",
       "source_sha256": "ecc83198f1f1054d2184cb907f89749012d6b9e5ee1e0d3ca1dba615c31095f4",
       "public_sha256": "ecc83198f1f1054d2184cb907f89749012d6b9e5ee1e0d3ca1dba615c31095f4",
       "change": "unchanged"
     },
     {
       "path": "App/Design/Components.swift",
-      "source_blob": "7e62b05c1c44269d57716468c8b6af61ab47d00e",
       "source_sha256": "77da8d0b92e24ea41094eb6221f1c96a5755ee94001da1bff3da984eace0197f",
       "public_sha256": "77da8d0b92e24ea41094eb6221f1c96a5755ee94001da1bff3da984eace0197f",
       "change": "unchanged"
     },
     {
       "path": "App/Design/DesignGallery.swift",
-      "source_blob": "da88b81b1f120882ec9b354b22eb3f7c7e8e00e2",
       "source_sha256": "48cf5686d0396c53bdeed3a436238412386637dab663a77b9e185a67c690a9c6",
       "public_sha256": "48cf5686d0396c53bdeed3a436238412386637dab663a77b9e185a67c690a9c6",
       "change": "unchanged"
     },
     {
       "path": "App/Design/Theme.swift",
-      "source_blob": "45ba60185ce53d68c911eb066a2987d384d6f73d",
       "source_sha256": "fa0db41dcdb96a3cab5b7dead30c6daf25b2cdb3a74bcb7444f621c360072cc4",
       "public_sha256": "fa0db41dcdb96a3cab5b7dead30c6daf25b2cdb3a74bcb7444f621c360072cc4",
       "change": "unchanged"
     },
     {
       "path": "App/Design/ThemePickerSection.swift",
-      "source_blob": "458cc459ed9502263b406bd063d9ab48e31d06f0",
       "source_sha256": "b8998c4b08b74370ac4b407f18f015f77a8b2389ec621c65e2360872da22ce82",
       "public_sha256": "b8998c4b08b74370ac4b407f18f015f77a8b2389ec621c65e2360872da22ce82",
       "change": "unchanged"
     },
     {
       "path": "App/Design/ThemeStore.swift",
-      "source_blob": "8b5634ced9d841c895f6ce59cd7768d2f932b7c2",
       "source_sha256": "f73ced96f74d8d61a75e330f2b895a38efad0ce965e9fa70a2e6ee7af4b0d51e",
       "public_sha256": "f73ced96f74d8d61a75e330f2b895a38efad0ce965e9fa70a2e6ee7af4b0d51e",
       "change": "unchanged"
     },
     {
       "path": "App/Info.plist",
-      "source_blob": "2fa8ca6679f2ac016ce7f390713b3089fef2af86",
       "source_sha256": "380a85833e7ce5967e18def47fa560ddb48e09f791aef6a44bdd830d4fa951b9",
       "public_sha256": "380a85833e7ce5967e18def47fa560ddb48e09f791aef6a44bdd830d4fa951b9",
       "change": "unchanged"
     },
     {
       "path": "App/InfoPlist.xcstrings",
-      "source_blob": "40eb0f0d168c5448c7477231baf18985aee05efb",
       "source_sha256": "e8f17e7445591e1d497ead6294338c3eb3e830d395b4d4ede34553e44accb476",
       "public_sha256": "e8f17e7445591e1d497ead6294338c3eb3e830d395b4d4ede34553e44accb476",
       "change": "unchanged"
     },
     {
       "path": "App/Intents/LocksteadIntents.swift",
-      "source_blob": "0c8ccc4655d6bf8ab0b14fd67dbba010cfbb959e",
       "source_sha256": "ccde324fc2681030e93bd430abf0520b2d50cb7496d87b3b93ba76e7d3545399",
       "public_sha256": "ccde324fc2681030e93bd430abf0520b2d50cb7496d87b3b93ba76e7d3545399",
       "change": "unchanged"
     },
     {
       "path": "App/LocksteadApp.swift",
-      "source_blob": "af399901af704563187ab18b56ae90c8d8c77247",
       "source_sha256": "9f34f8c8901f043a3cb02cc9e0d8b90dc87f7526ef28b4476f6156acca6a8c65",
       "public_sha256": "9f34f8c8901f043a3cb02cc9e0d8b90dc87f7526ef28b4476f6156acca6a8c65",
       "change": "unchanged"
     },
     {
       "path": "App/Resources/AppShortcuts.xcstrings",
-      "source_blob": "33b1e271a939c248cd710227ef28c00ca0ffe117",
       "source_sha256": "2205eedd64420ae27fff03afda366b6f23fb824191eada696cc5b3caeb4ac50f",
       "public_sha256": "2205eedd64420ae27fff03afda366b6f23fb824191eada696cc5b3caeb4ac50f",
       "change": "unchanged"
     },
     {
       "path": "App/Resources/PINExperience.xcstrings",
-      "source_blob": "370f828c0ae6f728e62498c7c948f3c9ae3f52ce",
       "source_sha256": "80fe7f8c180992f5eaaf72b598986cb695d8fbe7a842e803c054ada6f0aa84aa",
       "public_sha256": "80fe7f8c180992f5eaaf72b598986cb695d8fbe7a842e803c054ada6f0aa84aa",
       "change": "unchanged"
     },
     {
       "path": "App/Resources/ScheduleExperience.xcstrings",
-      "source_blob": "2208146efec30d51a12b1dc2078d909d4184c656",
       "source_sha256": "3b126f3bc7086d1a4af780d429f6d5f7a753d6d6be610e84aef102faa21a981a",
       "public_sha256": "3b126f3bc7086d1a4af780d429f6d5f7a753d6d6be610e84aef102faa21a981a",
       "change": "unchanged"
     },
     {
       "path": "App/Stores/BiometricUnlocker.swift",
-      "source_blob": "a04bc63e36bd48ad796d0467d80351bcf2d8fad9",
       "source_sha256": "705932e9a32015076296eeabb488ab08b926af4c5acf9ef9fde217c3cdeceb97",
       "public_sha256": "705932e9a32015076296eeabb488ab08b926af4c5acf9ef9fde217c3cdeceb97",
       "change": "unchanged"
     },
     {
       "path": "App/Stores/EntitlementStore.swift",
-      "source_blob": "2ee5f678fcb248c84eb6abeaf5bc4569bb9abe51",
       "source_sha256": "edf89e48d21afe7d79d26c1c03e0cf4e753c56ff722cf289dd20ca4eab7d0eee",
       "public_sha256": "edf89e48d21afe7d79d26c1c03e0cf4e753c56ff722cf289dd20ca4eab7d0eee",
       "change": "unchanged"
     },
     {
       "path": "App/Stores/LockerViewModel.swift",
-      "source_blob": "e343973cdc0400a3d4e9c4be8474ef16bc6a95c1",
       "source_sha256": "891beb77db8697f2d9bd64f8d348391d46c0baf495ceeb489acdd7ef1456e115",
       "public_sha256": "891beb77db8697f2d9bd64f8d348391d46c0baf495ceeb489acdd7ef1456e115",
       "change": "unchanged"
     },
     {
       "path": "App/Views/CalculatorLoginView.swift",
-      "source_blob": "8a78e6764f9f73e7dfe10acb8adfe37e4e8aae24",
       "source_sha256": "985c8af58ff400659ddc426c7a9bc481504087c5a4dcff3808b62cdf53d898c1",
       "public_sha256": "985c8af58ff400659ddc426c7a9bc481504087c5a4dcff3808b62cdf53d898c1",
       "change": "unchanged"
     },
     {
       "path": "App/Views/GuardDiagnosticsView.swift",
-      "source_blob": "9bda1892965ba83ffaccfa66e7e2bdd63f97a43f",
       "source_sha256": "07033bffc1f52e611b12bca74630d281a8e8d99dbb0cc64885fa90dc3c5c1f62",
       "public_sha256": "07033bffc1f52e611b12bca74630d281a8e8d99dbb0cc64885fa90dc3c5c1f62",
       "change": "unchanged"
     },
     {
       "path": "App/Views/GuestDurationPickerView.swift",
-      "source_blob": "8b314ac2ae0f4d95678dff2dd9bda9b1252eae18",
       "source_sha256": "5dbf2da6951c15c72fff0a6f56afb4ea92e4aeb6cb1a845285c6e200b023715b",
       "public_sha256": "5dbf2da6951c15c72fff0a6f56afb4ea92e4aeb6cb1a845285c6e200b023715b",
       "change": "unchanged"
     },
     {
       "path": "App/Views/HomeView.swift",
-      "source_blob": "9925a9ddcbadca48b57da5106f390744e824c622",
       "source_sha256": "841f31b903e27f36337aa78723560e71f6f4788cdcd778432d7541dd719b9741",
       "public_sha256": "841f31b903e27f36337aa78723560e71f6f4788cdcd778432d7541dd719b9741",
       "change": "unchanged"
     },
     {
       "path": "App/Views/OnboardingView.swift",
-      "source_blob": "48c4a1ccefcc626ffcddacee3e2302ffbab6228c",
       "source_sha256": "ada69964fe409b324d53b4a13d63ab960f8a53b61fb1bcd048893cdad9bbd8ff",
       "public_sha256": "ada69964fe409b324d53b4a13d63ab960f8a53b61fb1bcd048893cdad9bbd8ff",
       "change": "unchanged"
     },
     {
       "path": "App/Views/PINEntryView.swift",
-      "source_blob": "9125435770577fb510f1c53704fa731284ff8616",
       "source_sha256": "8e426daa02463d1d3c07e5a2292b8b9cdae076aefb0e80cef665f3863d842f8e",
       "public_sha256": "8e426daa02463d1d3c07e5a2292b8b9cdae076aefb0e80cef665f3863d842f8e",
       "change": "unchanged"
     },
     {
       "path": "App/Views/PINManagementView.swift",
-      "source_blob": "672226b5276ba4d2d264f2f61948843faf2658bb",
       "source_sha256": "f386d2fffea34b12fe7f5f914df6aad8265ab669e4a4b439d0eaaee7f69f68f6",
       "public_sha256": "f386d2fffea34b12fe7f5f914df6aad8265ab669e4a4b439d0eaaee7f69f68f6",
       "change": "unchanged"
     },
     {
       "path": "App/Views/PINRecoveryHelpView.swift",
-      "source_blob": "e640231fce97d900abdbcd37c101db2d868aafe1",
       "source_sha256": "73035a7e3fc89d295ba75e1a9b7e590efbf842b2a375adfb3fce3c9b85cdf814",
       "public_sha256": "73035a7e3fc89d295ba75e1a9b7e590efbf842b2a375adfb3fce3c9b85cdf814",
       "change": "unchanged"
     },
     {
       "path": "App/Views/PINSetupView.swift",
-      "source_blob": "dd797865e59f757d3f28426f7648d7dcb8913ae1",
       "source_sha256": "e83d9d7b95fa3e734d6dca7e77f5434f1bb70b60e5cf91f66e7b004d1093b0cf",
       "public_sha256": "e83d9d7b95fa3e734d6dca7e77f5434f1bb70b60e5cf91f66e7b004d1093b0cf",
       "change": "unchanged"
     },
     {
       "path": "App/Views/PaywallView.swift",
-      "source_blob": "8bb45818c42e5d9019ca473c5f8370ba08202fc5",
       "source_sha256": "bab5610fb4ac9b75a17ea2c576fe4b61fbc547961e47256fc0828c386f06c988",
       "public_sha256": "bab5610fb4ac9b75a17ea2c576fe4b61fbc547961e47256fc0828c386f06c988",
       "change": "unchanged"
     },
     {
       "path": "App/Views/ScenesView.swift",
-      "source_blob": "98ef02b662ebeefa19a08858bc72b82a4748adff",
       "source_sha256": "19afe788cd840cba30f5fc9fbd7d6676a2baae03315622f728ec852fd9955e5d",
       "public_sha256": "19afe788cd840cba30f5fc9fbd7d6676a2baae03315622f728ec852fd9955e5d",
       "change": "unchanged"
     },
     {
       "path": "App/Views/ScheduleEditorView.swift",
-      "source_blob": "6231b243c0c3c84c73e58d2786d67d897d5fe1b9",
       "source_sha256": "08616f33f53d10bec99d55a5a2d838c32e3fec248ab7ebbde35cf3dc8d992522",
       "public_sha256": "08616f33f53d10bec99d55a5a2d838c32e3fec248ab7ebbde35cf3dc8d992522",
       "change": "unchanged"
     },
     {
       "path": "App/Views/SelectionPreview.swift",
-      "source_blob": "01dc2f082a16815166274903b046ad76afa44553",
       "source_sha256": "9fd8c843532c6d0a694c211c6562e66b4dac37b76f0f91028a38368e7bd4985a",
       "public_sha256": "9fd8c843532c6d0a694c211c6562e66b4dac37b76f0f91028a38368e7bd4985a",
       "change": "unchanged"
     },
     {
       "path": "App/Views/SettingsView.swift",
-      "source_blob": "339435a81608f86fac9c3cba75455f2e90fce72d",
       "source_sha256": "d9de92b86fc0d37010159795ee12985e40da92aba7a9bad90b10dc75340dfb7f",
       "public_sha256": "d9de92b86fc0d37010159795ee12985e40da92aba7a9bad90b10dc75340dfb7f",
       "change": "unchanged"
     },
     {
       "path": "App/Views/TemporaryAccessView.swift",
-      "source_blob": "ac7109fd0b90d00bbc98cc2d1a1bded6fa867cc7",
       "source_sha256": "3ebf998d3b636756300e195d4a77cfd139a81050bc4c2bb63c8a996280e4b89f",
       "public_sha256": "3ebf998d3b636756300e195d4a77cfd139a81050bc4c2bb63c8a996280e4b89f",
       "change": "unchanged"
     },
     {
       "path": "Config/Build.xcconfig",
-      "source_blob": "295fc1b4606f3e934be34fb540b06dae37c95e31",
       "source_sha256": "57ee2059f22adb62908687f0ef6da353218b3fbd6d32a2a40e0cdde594d74b82",
       "public_sha256": "57ee2059f22adb62908687f0ef6da353218b3fbd6d32a2a40e0cdde594d74b82",
       "change": "unchanged"
     },
     {
       "path": "Config/Dev.xcconfig.example",
-      "source_blob": "6ab2df531400ac0950e2a91d60464d51f1d96c95",
       "source_sha256": "6e4c1060e123ed325187853b36d645605eaf086336750b3686f7fec1f7f4c877",
       "public_sha256": "6e4c1060e123ed325187853b36d645605eaf086336750b3686f7fec1f7f4c877",
       "change": "unchanged"
     },
     {
       "path": "Config/Version.xcconfig",
-      "source_blob": "d19b408acedd233e7bcf9231b2f914aa4d94096e",
-      "source_sha256": "e6e56fab711fd1f9337dea38efdf65825a178599139bf9112c525ef52f3fc3c1",
-      "public_sha256": "e6e56fab711fd1f9337dea38efdf65825a178599139bf9112c525ef52f3fc3c1",
-      "change": "unchanged"
+      "source_sha256": "4e6f271e9f82d512a43f96dd6b69e56b6fe6f806f3a522ed046c8ffdfedeb6db",
+      "public_sha256": "7e3406fd2f79c1c8a371e7763cfa70376a1aa6c8185fd3b0530f833a5ac86215",
+      "change": "archive-build-normalization-22-to-21"
     },
     {
       "path": "Entitlements/ActivityMonitor.entitlements",
-      "source_blob": "801e51a835307acb5a3574f8115d44bccab2e45e",
       "source_sha256": "009150a0817c5696d7bd3198107f824006f73975b883e3138d201e97915006fc",
       "public_sha256": "009150a0817c5696d7bd3198107f824006f73975b883e3138d201e97915006fc",
       "change": "unchanged"
     },
     {
       "path": "Entitlements/Lockstead.entitlements",
-      "source_blob": "801e51a835307acb5a3574f8115d44bccab2e45e",
       "source_sha256": "009150a0817c5696d7bd3198107f824006f73975b883e3138d201e97915006fc",
       "public_sha256": "009150a0817c5696d7bd3198107f824006f73975b883e3138d201e97915006fc",
       "change": "unchanged"
     },
     {
       "path": "Entitlements/ShieldAction.entitlements",
-      "source_blob": "b7f22fbd4eb1213adf4ccdfde48cd96e87844516",
       "source_sha256": "e0f27c043bcfa4e05052d3e09a8017c98e203ec1124a1fb1a715073902a2f68a",
       "public_sha256": "e0f27c043bcfa4e05052d3e09a8017c98e203ec1124a1fb1a715073902a2f68a",
       "change": "unchanged"
     },
     {
       "path": "Entitlements/ShieldConfigUI.entitlements",
-      "source_blob": "8b219fe72d787f0bc16403749a9c5e0649177db1",
       "source_sha256": "0bcf171bb59bdbbf951067e85259cdcbe6cce29eac722d30f8f4ad6c180030b3",
       "public_sha256": "0bcf171bb59bdbbf951067e85259cdcbe6cce29eac722d30f8f4ad6c180030b3",
       "change": "unchanged"
     },
     {
       "path": "Extensions/ActivityMonitor/ActivityMonitorExtension.swift",
-      "source_blob": "1ae9655dbbb50a83c84a8dfee91f82d0b58cd71a",
       "source_sha256": "dd68b6ad34409e008be5bde44ff4f9bdb86efb67fb723aa890f0f4f681b90399",
       "public_sha256": "dd68b6ad34409e008be5bde44ff4f9bdb86efb67fb723aa890f0f4f681b90399",
       "change": "unchanged"
     },
     {
       "path": "Extensions/ActivityMonitor/Info.plist",
-      "source_blob": "ddffb401c52b7fea56793ddc07e202c1c7164b1a",
       "source_sha256": "e60697a394649cd282df26c08f960958b34e4f774f09ca4fd40e5c961a647037",
       "public_sha256": "e60697a394649cd282df26c08f960958b34e4f774f09ca4fd40e5c961a647037",
       "change": "unchanged"
     },
     {
       "path": "Extensions/ShieldAction/Info.plist",
-      "source_blob": "df3f88e55ed2e42c4e19c2c1d4ee1ec25ba8bd64",
       "source_sha256": "db7e0658ecd66254b7fb892bfea5a627701f68d798e3155f43c91b328fbf8203",
       "public_sha256": "db7e0658ecd66254b7fb892bfea5a627701f68d798e3155f43c91b328fbf8203",
       "change": "unchanged"
     },
     {
       "path": "Extensions/ShieldAction/ShieldActionProvider.swift",
-      "source_blob": "f5aacb21b2681718d5003ee6741f1224a8cc0386",
       "source_sha256": "27a39e319c95638a3d5bd000e48fd979b5ddadcdd5f672c8a46d7609bfcb8d7a",
       "public_sha256": "27a39e319c95638a3d5bd000e48fd979b5ddadcdd5f672c8a46d7609bfcb8d7a",
       "change": "unchanged"
     },
     {
       "path": "Extensions/ShieldConfigUI/Info.plist",
-      "source_blob": "291d17ec288fd54151c06201e31a5d3ab9a36585",
       "source_sha256": "1c72ac8e8ac076ea29601ea5964d0b41f69d03079320db1a81b45f3b18c4f4c9",
       "public_sha256": "1c72ac8e8ac076ea29601ea5964d0b41f69d03079320db1a81b45f3b18c4f4c9",
       "change": "unchanged"
     },
     {
       "path": "Extensions/ShieldConfigUI/ShieldConfigurationProvider.swift",
-      "source_blob": "d05880f6c80c3ace610547bdb9a13445c295877a",
       "source_sha256": "f24a8e012a764dd0d3272fe04eaf98908668c9d9cbd2a72efdd067c6a0b66235",
       "public_sha256": "f24a8e012a764dd0d3272fe04eaf98908668c9d9cbd2a72efdd067c6a0b66235",
       "change": "unchanged"
     },
     {
       "path": "Lockstead.storekit",
-      "source_blob": "40275909be31abe1b25e1d406429f8f8141c469a",
       "source_sha256": "af05812d735d034a0ff8571498cbe54f671f90a91002865d8313d0094b48b2ff",
       "public_sha256": "af05812d735d034a0ff8571498cbe54f671f90a91002865d8313d0094b48b2ff",
       "change": "unchanged"
     },
     {
       "path": "Scripts/increment-build-number.sh",
-      "source_blob": "df99eaab5b9a3f7a3fd504d180093ccfe9fdfe71",
       "source_sha256": "8ef5ca42b52606842cc226f70cc681c9b5661ec56ada4daf56aa8b036fd981a3",
       "public_sha256": "8ef5ca42b52606842cc226f70cc681c9b5661ec56ada4daf56aa8b036fd981a3",
       "change": "unchanged"
     },
     {
       "path": "Shared/AppGroup.swift",
-      "source_blob": "c0e21095ee02d3334d454cea50131c17fcc4a938",
       "source_sha256": "2327355adcb0f1f805b7a3187fd152b936f1e6b079cf0f65e2ca438c9b91dfae",
       "public_sha256": "2327355adcb0f1f805b7a3187fd152b936f1e6b079cf0f65e2ca438c9b91dfae",
       "change": "unchanged"
     },
     {
       "path": "Shared/AppGroupStore.swift",
-      "source_blob": "0eb9982fb85c74d9580976f1bb3d5b185038124f",
       "source_sha256": "742be3a2d9ae3d694ed8ed0922ac813dab3399c481a3669d106e7dd2b33dba16",
       "public_sha256": "742be3a2d9ae3d694ed8ed0922ac813dab3399c481a3669d106e7dd2b33dba16",
       "change": "unchanged"
     },
     {
       "path": "Shared/AuthorizationGuard.swift",
-      "source_blob": "2f149202c1860adec68dd65ac256f7021f8b9d48",
       "source_sha256": "b4f1af28c94fb0ba53e2f3a56e2dd3c259095420e0b8a995dc07ffff2f634547",
       "public_sha256": "b4f1af28c94fb0ba53e2f3a56e2dd3c259095420e0b8a995dc07ffff2f634547",
       "change": "unchanged"
     },
     {
       "path": "Shared/CalculatorLoginEngine.swift",
-      "source_blob": "1ada79cb65d92832621d562f248a5362b38f792e",
       "source_sha256": "ebca7174015b2118117e346c81997bc1d111dd4de8922dab8403a2803a8fa248",
       "public_sha256": "ebca7174015b2118117e346c81997bc1d111dd4de8922dab8403a2803a8fa248",
       "change": "unchanged"
     },
     {
       "path": "Shared/FreeTierGate.swift",
-      "source_blob": "70ac2c3fbcfea0bec60d38e9bbe29ef550756f95",
       "source_sha256": "720362146eb40ccb1917830addf598d659db4bdf0fdccbf3f257ccb136539bb3",
       "public_sha256": "720362146eb40ccb1917830addf598d659db4bdf0fdccbf3f257ccb136539bb3",
       "change": "unchanged"
     },
     {
       "path": "Shared/GuardActions.swift",
-      "source_blob": "c07fe7bbf407e120fdeaf43574b10bb213270b58",
       "source_sha256": "8035b4ac4c3e00c6554d89326cf54eb9d8f798419e8d33795f2564c4ae8d8bd4",
       "public_sha256": "8035b4ac4c3e00c6554d89326cf54eb9d8f798419e8d33795f2564c4ae8d8bd4",
       "change": "unchanged"
     },
     {
       "path": "Shared/GuardScene.swift",
-      "source_blob": "a7c2cb02bfeed18af58be41f1cc6a480181456ab",
       "source_sha256": "549475ee96aebd50bf800fedf19d05c821fb431c18782270580645fe97610ffd",
       "public_sha256": "549475ee96aebd50bf800fedf19d05c821fb431c18782270580645fe97610ffd",
       "change": "unchanged"
     },
     {
       "path": "Shared/GuestModeScheduler.swift",
-      "source_blob": "d0fd22efdea00c4c496fca6f65ec96695fd28eab",
       "source_sha256": "7616844ba5a16966f8e0b7986ef561764b9ab5dd41da4907dd13eed26efca463",
       "public_sha256": "7616844ba5a16966f8e0b7986ef561764b9ab5dd41da4907dd13eed26efca463",
       "change": "unchanged"
     },
     {
       "path": "Shared/Localizable.xcstrings",
-      "source_blob": "8e6c1a2c1e640205e49176b28220e68a491486db",
-      "source_sha256": "8c9dd79066cdb60b9ac420843ea6133168179de1126d4825d17d6ffef3163e10",
-      "public_sha256": "8c9dd79066cdb60b9ac420843ea6133168179de1126d4825d17d6ffef3163e10",
+      "source_sha256": "41203f308361e2e3a2fcc00ea008efe84c87888a9bb7afa5ecf4f22ee8211531",
+      "public_sha256": "41203f308361e2e3a2fcc00ea008efe84c87888a9bb7afa5ecf4f22ee8211531",
       "change": "unchanged"
     },
     {
       "path": "Shared/LockSchedule.swift",
-      "source_blob": "463b0735925217e7f32319564c0cf1e96ec942c9",
       "source_sha256": "e64aa65915b30dfd492de115df595e3248576b57000a3b42416e92aea887bff7",
       "public_sha256": "e64aa65915b30dfd492de115df595e3248576b57000a3b42416e92aea887bff7",
       "change": "unchanged"
     },
     {
       "path": "Shared/LockScheduler.swift",
-      "source_blob": "2403c8e1f840308d33425aa7c9d2cc45968c15e5",
       "source_sha256": "c885a31ed6156cf524da0a2c67d3d84105a1bf91530f4adb780e9e2bf8d7843b",
       "public_sha256": "c885a31ed6156cf524da0a2c67d3d84105a1bf91530f4adb780e9e2bf8d7843b",
       "change": "unchanged"
     },
     {
       "path": "Shared/LockerState.swift",
-      "source_blob": "24a0d55e7c422000a90333b7ffeb28b16731fb5a",
       "source_sha256": "4b1cbdea58adad64daaa84850037fa6446195bd8ea8c3cad2a3f9570a20ba745",
       "public_sha256": "4b1cbdea58adad64daaa84850037fa6446195bd8ea8c3cad2a3f9570a20ba745",
       "change": "unchanged"
     },
     {
       "path": "Shared/PINCredentialStore.swift",
-      "source_blob": "61613447aaf6e9987271323590f0523652f9ab29",
       "source_sha256": "e554dba3ee1cbf943eafa6165cf58bd36e689efe3baea03702ae441b578c970c",
       "public_sha256": "e554dba3ee1cbf943eafa6165cf58bd36e689efe3baea03702ae441b578c970c",
       "change": "unchanged"
     },
     {
       "path": "Shared/PINManager.swift",
-      "source_blob": "b73177965bac678e2c2ae6fccf4a749e3df31c67",
       "source_sha256": "9e0327d6318f86608a380c4ecf3034fb27bad7365b68cde34f455e3709f7b00c",
       "public_sha256": "9e0327d6318f86608a380c4ecf3034fb27bad7365b68cde34f455e3709f7b00c",
       "change": "unchanged"
     },
     {
       "path": "Shared/RestrictionsController.swift",
-      "source_blob": "d3345504a06e1f4ee1bc3adf7a2f71bcd0e534de",
       "source_sha256": "55de76997423c04847f15c2cdddeea1a7c000682ede0b0c434093132ab8fcea0",
       "public_sha256": "55de76997423c04847f15c2cdddeea1a7c000682ede0b0c434093132ab8fcea0",
       "change": "unchanged"
     },
     {
       "path": "Shared/ReviewAccessStore.swift",
-      "source_blob": "d96f2bb529545ebf16e1ba3055d59a64b0acd825",
       "source_sha256": "14e8d90e980cf2f3f49d1293cf2564a0b9069a47705a69bce116563fc46fd617",
       "public_sha256": "ce076bffc7a2bd9f14112afb1752555ca84725999e04660cf3b5f5871b15d6ab",
       "change": "synthetic-review-fixture"
     },
     {
       "path": "Shared/RootRoute.swift",
-      "source_blob": "fd72e32a35c90a2ecf2af946335b4facc87d2ea9",
       "source_sha256": "56149c071efd9d6d2e92f2849d53ddede3b4e21c8348eadd0c2b38a54be2ac5e",
       "public_sha256": "56149c071efd9d6d2e92f2849d53ddede3b4e21c8348eadd0c2b38a54be2ac5e",
       "change": "unchanged"
     },
     {
       "path": "Shared/SelectionPolicy.swift",
-      "source_blob": "a7a9904025caac2b319f697d8f033d48aa380af6",
       "source_sha256": "407f198ee528fa3cc9dd6c1b2d39330f055d6add68dba4e65b361a8a33f03763",
       "public_sha256": "407f198ee528fa3cc9dd6c1b2d39330f055d6add68dba4e65b361a8a33f03763",
       "change": "unchanged"
     },
     {
       "path": "Shared/ShieldCopy.swift",
-      "source_blob": "743dea8c21c46517ec1b3a8acafdfd020492b0c0",
       "source_sha256": "873e0afa7212cfdcae4f3d4a3d89a23297b2b140572d527e7a8153378ff1e6da",
       "public_sha256": "873e0afa7212cfdcae4f3d4a3d89a23297b2b140572d527e7a8153378ff1e6da",
       "change": "unchanged"
     },
     {
       "path": "Shared/TemporaryUnlockScheduler.swift",
-      "source_blob": "26e5c5fb424d05db33e1ecadc1b58449ef428c7a",
       "source_sha256": "d3cf98698f39b60ca370a3315e552ff4447dd97498810180235fa49ad0451b86",
       "public_sha256": "d3cf98698f39b60ca370a3315e552ff4447dd97498810180235fa49ad0451b86",
       "change": "unchanged"
     },
     {
       "path": "Shared/ThemePolicy.swift",
-      "source_blob": "d1ff63bc691906449477b3f22b99930b60b87ad3",
       "source_sha256": "fc7061e3eef2dc3f81129af4657ecdb9a47b8eec2d8c68e7d79cf473d77d2c3a",
       "public_sha256": "fc7061e3eef2dc3f81129af4657ecdb9a47b8eec2d8c68e7d79cf473d77d2c3a",
       "change": "unchanged"
     },
     {
       "path": "Shared/UnitConversionState.swift",
-      "source_blob": "f78f5e64689edcf970977a8c62b18b3fa217af97",
       "source_sha256": "9df2ce3df53292715a3f0a2509b45e6bcbd796c2fe694c753acd330d59de515b",
       "public_sha256": "9df2ce3df53292715a3f0a2509b45e6bcbd796c2fe694c753acd330d59de515b",
       "change": "unchanged"
     },
     {
       "path": "Shared/UnitConverter.swift",
-      "source_blob": "8dded5afa998d059b4d53a02de64d0f73179f1c6",
       "source_sha256": "bb9ce13a73c9e934eb76abb6e410d40f87de4026ad4cc810e82616bffe01d15e",
       "public_sha256": "bb9ce13a73c9e934eb76abb6e410d40f87de4026ad4cc810e82616bffe01d15e",
       "change": "unchanged"
     },
     {
       "path": "Shared/UnitDisplay.swift",
-      "source_blob": "3c4a43747fd28832ed4d9d7960b9f286680f90ab",
       "source_sha256": "0142e7eb48cd68ed4ca4e49febeb1972e92e1000cabf91ea02a6c1c7fcbd12ad",
       "public_sha256": "0142e7eb48cd68ed4ca4e49febeb1972e92e1000cabf91ea02a6c1c7fcbd12ad",
       "change": "unchanged"
     },
     {
       "path": "Shared/XLPalette.swift",
-      "source_blob": "6465a18e0f168b6cbc6292f909973fc00a00e7d5",
       "source_sha256": "3eaece34efe5cf288810b601de05e199db3b7326bc60d27349a067c0ba1324cf",
       "public_sha256": "3eaece34efe5cf288810b601de05e199db3b7326bc60d27349a067c0ba1324cf",
       "change": "unchanged"
     },
     {
       "path": "Shared/XLThemeCatalog.swift",
-      "source_blob": "da3162b872ce1b9edbbd7be73c5fa6173b43c751",
       "source_sha256": "25cb87d8a824db1236cbc32d8534d0c2ec956bf7f595b77a53dc166df0a299b3",
       "public_sha256": "25cb87d8a824db1236cbc32d8534d0c2ec956bf7f595b77a53dc166df0a299b3",
       "change": "unchanged"
     },
     {
       "path": "Shared/XLThemeID.swift",
-      "source_blob": "c66ab398b1df3eb026177877095db32652db93d1",
       "source_sha256": "5190bc627e06a9b4a4aff56035eaf8b8f545c439aa26933e0fdb0d2887b68389",
       "public_sha256": "5190bc627e06a9b4a4aff56035eaf8b8f545c439aa26933e0fdb0d2887b68389",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/AuthorizationGuardTests.swift",
-      "source_blob": "296d583f7604325c5f8f743d4420e3c848862afb",
       "source_sha256": "5d76e05e15a3b77251946daeee092024761d5415823299a2384acc267978d4fc",
       "public_sha256": "5d76e05e15a3b77251946daeee092024761d5415823299a2384acc267978d4fc",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/CalculatorLoginEngineTests.swift",
-      "source_blob": "df0914f4cdc21e702278bd4cce187583b233ab93",
       "source_sha256": "a1a88718e93bdc5b48886bf1b9937dde19fbe9b976611473e2200959a100eb5f",
       "public_sha256": "a1a88718e93bdc5b48886bf1b9937dde19fbe9b976611473e2200959a100eb5f",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/ExperiencePolicyTests.swift",
-      "source_blob": "14844da45e12d1d6bebfa27e5987396a43253f3f",
       "source_sha256": "e6d00f768017297a4e0bdd6ce9550dd68774147f9b974282a1bd042541f9a333",
       "public_sha256": "e6d00f768017297a4e0bdd6ce9550dd68774147f9b974282a1bd042541f9a333",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/FreeTierGateTests.swift",
-      "source_blob": "d85a5e2e7d8e0a98ec2479460d4022e0b911ba8c",
       "source_sha256": "9b4575ff137df9353777a45b02eb6e7e04f001d3e452d1bfc7a245fb727c3637",
       "public_sha256": "9b4575ff137df9353777a45b02eb6e7e04f001d3e452d1bfc7a245fb727c3637",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/GuardActionsTests.swift",
-      "source_blob": "161b1b23e25a0538f55aa78347581cd5977a132d",
       "source_sha256": "e82665cea144aaf486068f978eea560f81da371aa09a2f52d0597bab42979fec",
       "public_sha256": "e82665cea144aaf486068f978eea560f81da371aa09a2f52d0597bab42979fec",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/LockScheduleTests.swift",
-      "source_blob": "897cb07031ce05f7d9de7628bbf102f3bc3a2c4c",
       "source_sha256": "d9b56f8e3477c77cecf62dc11dea9267066e863628d982dcfb9e98eb0029f332",
       "public_sha256": "d9b56f8e3477c77cecf62dc11dea9267066e863628d982dcfb9e98eb0029f332",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/LockerStateTests.swift",
-      "source_blob": "31876260130a0a8dd88b838c3cdc091d702212fd",
       "source_sha256": "ef162d8b5ffd18704413290c59fd87a6324a0a4c00814802570cb1724c334465",
       "public_sha256": "ef162d8b5ffd18704413290c59fd87a6324a0a4c00814802570cb1724c334465",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/LockerViewModelTests.swift",
-      "source_blob": "9585641bfb41065ccc88913fbdd2d183fed74c52",
       "source_sha256": "c06cf58dbaf8d7dd98e9272ca1a85e07fcae8b61230665258414f52043a7130d",
       "public_sha256": "c06cf58dbaf8d7dd98e9272ca1a85e07fcae8b61230665258414f52043a7130d",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/PINManagementTests.swift",
-      "source_blob": "ec48ed59960893400c470fdcfb9c5f0b0b76f616",
       "source_sha256": "a20addba459c4513f9249bc4d9a53fed4adc3e03c9f2e963bb34fd11cbd08112",
       "public_sha256": "a20addba459c4513f9249bc4d9a53fed4adc3e03c9f2e963bb34fd11cbd08112",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/PINManagerTests.swift",
-      "source_blob": "60286e8b8cd4161d92b641c4b64d9282460148ef",
       "source_sha256": "6aaddae749e65beebfe1048463d584d961e4d8bf2630551dca4df787cb41440a",
       "public_sha256": "6aaddae749e65beebfe1048463d584d961e4d8bf2630551dca4df787cb41440a",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/PINTestDoubles.swift",
-      "source_blob": "59b846cb6245a84a064967a868df5c55b32df422",
       "source_sha256": "f9740bc929691e3de614e8f9cb291d2936116cb0dfa7c8d5c7a65c9b1c147de8",
       "public_sha256": "f9740bc929691e3de614e8f9cb291d2936116cb0dfa7c8d5c7a65c9b1c147de8",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/RestrictionsPlanTests.swift",
-      "source_blob": "8254232671f6cdcfba9290061363af1ef07c8d7d",
       "source_sha256": "f48b946a612f820c7765ec1ea2f0d1b77151d69baf2b911579f029bab95911a7",
       "public_sha256": "f48b946a612f820c7765ec1ea2f0d1b77151d69baf2b911579f029bab95911a7",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/ReviewAccessStoreTests.swift",
-      "source_blob": "1c381d0a6b10d95e5fb4ae26b7149e7c76fcb5b8",
       "source_sha256": "be5b72716299c8ab306eb52ef0c20c2755865d8e87f356c99ef11bee8043548f",
       "public_sha256": "2720174f5fcc6045fc3106a143a77eec4b317a484c0fbdfa8e6f73b9ae142492",
       "change": "synthetic-review-fixture"
     },
     {
       "path": "Tests/LocksteadTests/RootRouteTests.swift",
-      "source_blob": "fd60c43dc22644d6182a66128e479f306993cab4",
       "source_sha256": "f8e064d33bff58d5204949416702e69fc95ae8ed3895e486cd24620559a89ff2",
       "public_sha256": "f8e064d33bff58d5204949416702e69fc95ae8ed3895e486cd24620559a89ff2",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/ScheduleRulesTests.swift",
-      "source_blob": "4d5dde17fb411ff1c6b4f9ba76aad7e5214a821e",
       "source_sha256": "232d9c525d365554eb6c2f9b540d24c0a1264b9c5864f5f68959b3b9e25e5cba",
       "public_sha256": "232d9c525d365554eb6c2f9b540d24c0a1264b9c5864f5f68959b3b9e25e5cba",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/SelectionPolicyTests.swift",
-      "source_blob": "f88bc69d70b1a64362fbb33b70e9586ff5bc08d0",
       "source_sha256": "9dfc6ec7cda028ce74ad593d76d742ea3fee8092f9bac02651f098405e6c59c6",
       "public_sha256": "9dfc6ec7cda028ce74ad593d76d742ea3fee8092f9bac02651f098405e6c59c6",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/SessionSnapshotTests.swift",
-      "source_blob": "72560a84fd0b5d283faefbd1eeb2d3dc1fdc07f2",
       "source_sha256": "c81640fac3b938f0cccaba37b6459756d31397bd456c654975b13e4aad87bfce",
       "public_sha256": "c81640fac3b938f0cccaba37b6459756d31397bd456c654975b13e4aad87bfce",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/ShieldCopyTests.swift",
-      "source_blob": "0ec2fdc66f5702363f6e588a193c8f2902d22ce9",
       "source_sha256": "20c2c18a9c868809ea088253d09bb127d89b145262132d51a3e948a3c030dc69",
       "public_sha256": "20c2c18a9c868809ea088253d09bb127d89b145262132d51a3e948a3c030dc69",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/SmokeTests.swift",
-      "source_blob": "3b607630d30f2c96a9de90c95ab1cff924840b19",
       "source_sha256": "978f06e952899428e48c363a76c11246179dc295b8bc3d2096c513e8aabc7a16",
       "public_sha256": "978f06e952899428e48c363a76c11246179dc295b8bc3d2096c513e8aabc7a16",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/TemporaryUnlockTests.swift",
-      "source_blob": "1c458188f4873a07de9218e8e40532811530b60b",
       "source_sha256": "b7c812d3df2fbf78dd979201b56ca390f4db0e7ba905a27a65c6f00f8982b3e5",
       "public_sha256": "b7c812d3df2fbf78dd979201b56ca390f4db0e7ba905a27a65c6f00f8982b3e5",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/ThemeTests.swift",
-      "source_blob": "572c8ed550a9651e9436096ecbfb84be145b2ca0",
       "source_sha256": "a999f64e7496b1cfa1c5932732b561230570e0d522f4d538677fc795b36afddc",
       "public_sha256": "a999f64e7496b1cfa1c5932732b561230570e0d522f4d538677fc795b36afddc",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/UnitConversionStateTests.swift",
-      "source_blob": "af6dea5a0b60f2fac048936cb1af18e6deab602b",
       "source_sha256": "17b99715e68b7cc2fb81de7c1c39f1ad363635dde49995682a3f980f836f5d69",
       "public_sha256": "17b99715e68b7cc2fb81de7c1c39f1ad363635dde49995682a3f980f836f5d69",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/UnitConverterTests.swift",
-      "source_blob": "3afc5e49db1ba137179fc34590529654ceea089f",
       "source_sha256": "d2c29d15993387712eafec078a0567b091dda24fb0f908c8d48461eff40c24ad",
       "public_sha256": "d2c29d15993387712eafec078a0567b091dda24fb0f908c8d48461eff40c24ad",
       "change": "unchanged"
     },
     {
       "path": "Tests/LocksteadTests/VIPProductsTests.swift",
-      "source_blob": "2997b8539da63e4a272457db3f2385ca8f952b56",
       "source_sha256": "41b6316d2e54c6ce80838c3d47975ed31f00310af3b9f7879625eed2bf2b4e00",
       "public_sha256": "ac4571e40b6a52bf2f7631a87e85cf57559ae9c39f86e0c5ebd066c4e9cc4f73",
       "change": "synthetic-review-fixture"
     },
     {
       "path": "project.yml",
-      "source_blob": "b9232546b64b9cf8cbe692850980128ae4447c2a",
-      "source_sha256": "f53186641184436708da6bc192402684e3f7ba41ba363f296f51f0a20019174a",
-      "public_sha256": "f53186641184436708da6bc192402684e3f7ba41ba363f296f51f0a20019174a",
+      "source_sha256": "82da1271361df11c22b779f66856457413c063b6392db9dbe3f736cdf79868c3",
+      "public_sha256": "82da1271361df11c22b779f66856457413c063b6392db9dbe3f736cdf79868c3",
       "change": "unchanged"
     }
   ],
@@ -861,5 +741,15 @@
     "build outputs and test logs",
     "operational release/marketing material",
     "official product PNG images"
-  ]
+  ],
+  "previous_snapshot_original_commit": "e0e3b2ecf452650f8e2ebb9a7dc9c3d72bf9a2d4",
+  "source_base_commit": "1e308ef5b0bd17385408bf97a2187d0d53608247",
+  "release": {
+    "version": "1.2.4",
+    "archive_build": "21",
+    "release_working_copy_reserved_build": "22",
+    "public_build": "21",
+    "verification_date": "2026-11-07",
+    "basis": "Release source-copy record, release receipts and archived app/extension Info.plist files; no binary reproducibility claim"
+  }
 }
