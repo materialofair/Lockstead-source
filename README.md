@@ -17,6 +17,10 @@ Core protection for one selected app is free. VIP has monthly, yearly or one-tim
 
 The product summary describes the public App Store listing checked on 2026-11-07. This repository tracks the 1.2.4 (21) release source with the deliberate public-only differences documented below; it does not claim byte-for-byte reproduction of the store binary.
 
+## Practical guide
+
+[Before lending your iPhone or iPad: an app-access checklist](docs/SAFE_DEVICE_HANDOFF.md) covers app selection, checks before handoff, notifications, session expiry and Guest Mode limits.
+
 ## 中文
 
 Lockstead 使用 Apple Screen Time 框架提供应用限制、家长 PIN、可选生物识别、临时放行、星期时间表、场景和访客模式。部分功能通过 StoreKit 提供 VIP 权益。后台恢复时间受 iOS 调度影响，核心拦截能力需要真机验证。源码开放不表示经过独立安全审计，也不表示 App Store 二进制与源码逐字节一致。
